@@ -1,0 +1,15 @@
+# Configuration files (Never upload API keys!)
+config.json
+
+# PyInstaller folders
+build/
+dist/
+*.spec
+__pycache__/
+
+# Python Virtual Environment
+.venv/
+
+# OS generated files
+.DS_Store
+Thumbs.db
